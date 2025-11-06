@@ -1,0 +1,9 @@
+age,salary,gender,city,target
+22,25000,male,pune,0
+25,32000,female,mumbai,1
+30,45000,female,pune,1
+28,38000,male,delhi,0
+35,50000,female,delhi,1
+40,60000,male,mumbai,1
+18,22000,male,pune,0
+50,80000,female,delhi,1
